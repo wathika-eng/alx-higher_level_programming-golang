@@ -2,6 +2,8 @@
 Rewrite Python tasks  using Golang
 
 # Resources used:
+https://app.mediafire.com/nh5ur7l6jk9cy => Books
+
 https://www.youtube.com/watch?v=0hChKDYOKd8
 
 https://tutorialedge.net/course/golang/
