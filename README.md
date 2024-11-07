@@ -9,6 +9,7 @@ https://www.youtube.com/watch?v=0hChKDYOKd8
 https://tutorialedge.net/course/golang/
 
 https://codegangsta.gitbooks.io/building-web-apps-with-go/content/go_makes_things_simple/index.html
+
 https://www.practical-go-lessons.com/
 
 https://golangbot.com/learn-golang-series/
