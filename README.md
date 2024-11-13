@@ -23,3 +23,5 @@ https://go101.org/
 https://go-proverbs.github.io/ => Go proverbs
 
 https://100go.co/ => Common Go mistakes
+
+https://hyperskill.org/courses?pl=go => JetBrains academy
