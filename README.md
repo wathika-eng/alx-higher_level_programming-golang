@@ -19,3 +19,7 @@ https://www.udemy.com/share/109Zxy3@afmuebqr7LWeJOXTurh1c8Wg9F00bmLAVwGLt62EUp4s
 https://docs.google.com/presentation/d/1FcYl76CyFHOGTq7bjq4VSHvXz0KgFinmTYopzgcWmKU/edit?usp=sharing
 
 https://go101.org/
+
+https://go-proverbs.github.io/ => Go proverbs
+
+https://100go.co/ => Common Go mistakes
