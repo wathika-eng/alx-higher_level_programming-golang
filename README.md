@@ -15,3 +15,7 @@ https://www.practical-go-lessons.com/
 https://golangbot.com/learn-golang-series/
 
 https://www.udemy.com/share/109Zxy3@afmuebqr7LWeJOXTurh1c8Wg9F00bmLAVwGLt62EUp4saK7Hu6LQxQ6L531ufS6Dlw==/
+
+https://docs.google.com/presentation/d/1FcYl76CyFHOGTq7bjq4VSHvXz0KgFinmTYopzgcWmKU/edit?usp=sharing
+
+https://go101.org/
