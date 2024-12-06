@@ -2,11 +2,19 @@
 Rewrite Python tasks  using Golang
 
 # Resources used:
-https://app.mediafire.com/nh5ur7l6jk9cy => Books
+<!---https://app.mediafire.com/nh5ur7l6jk9cy => Books-->
+
+https://exercism.org/tracks/go/
+
+https://frontendmasters.com/courses/go-aws/ (free for students using GitHub students pack)
 
 https://www.youtube.com/watch?v=0hChKDYOKd8
 
 https://tutorialedge.net/course/golang/
+
+https://app.codecrafters.io/r/smiling-macaw-211231 => Build your own X (supports Go)
+
+https://frontendmasters.com/courses/go-basics/ (free for students using GitHub students pack)
 
 https://codegangsta.gitbooks.io/building-web-apps-with-go/content/go_makes_things_simple/index.html
 
